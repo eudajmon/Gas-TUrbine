@@ -1,2 +1,2 @@
-# Gas-TUrbine
+# Gas-Turbine
 Simulinkproject of a Gas Turbine
